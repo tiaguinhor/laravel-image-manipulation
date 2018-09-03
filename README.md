@@ -1,4 +1,4 @@
-# Questa code
+# Laravel Image Manipulation
 
 ## Installation/Deploy
 
